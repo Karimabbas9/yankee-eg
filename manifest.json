@@ -1,0 +1,32 @@
+{
+    "dir": "ltr",
+    "name": "Yankee Egypt - Yankee for Trade and General Supplies",
+    "description": "Yankee Your Local Global Store. We provide all imported food, drinks, sweets, and home essentials. The world is in your hands",
+    "short_name": "Yankee Egypt",
+    "icons": [
+        {
+            "src": "https://yankee-eg.com/assets/img/pwa/144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "https://yankee-eg.com/assets/img/pwa/192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://yankee-eg.com/assets/img/pwa/512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "scope": "/",
+    "start_url": "https://yankee-eg.com",
+    "display": "standalone",
+    "orientation": "any",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "url": "https://yankee-eg.com",
+    "lang": "",
+    "screenshots": []
+}

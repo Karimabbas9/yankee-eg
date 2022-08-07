@@ -1,0 +1,833 @@
+a:104:{i:0;a:11:{s:5:"title";s:38:"Lina Medjool Dates Premium large 500 g";s:4:"slug";s:3:"160";s:3:"sku";s:13:"6224008886057";s:11:"category_id";s:0:"";s:5:"price";s:6:"233.45";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:1;a:11:{s:5:"title";s:32:"Lina Gazelle Dates Premium 200 g";s:4:"slug";s:3:"160";s:3:"sku";s:13:"6224008826668";s:11:"category_id";s:0:"";s:5:"price";s:4:"81.2";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:2;a:11:{s:5:"title";s:41:"Lina Medjool Gozelle Dates Premium 1000 g";s:4:"slug";s:3:"160";s:3:"sku";s:13:"6224008826095";s:11:"category_id";s:0:"";s:5:"price";s:6:"363.95";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:3;a:11:{s:5:"title";s:32:"Lina Gozelle Dates Premium 500 g";s:4:"slug";s:3:"160";s:3:"sku";s:13:"6224008826736";s:11:"category_id";s:0:"";s:5:"price";s:6:"233.45";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:4;a:11:{s:5:"title";s:39:"Lina Medjool Dates Premium large 1000 g";s:4:"slug";s:3:"160";s:3:"sku";s:13:"6224008826040";s:11:"category_id";s:0:"";s:5:"price";s:6:"363.95";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:5;a:11:{s:5:"title";s:46:"Lina Gozelle Medjool Dates Premium large 500 g";s:4:"slug";s:3:"160";s:3:"sku";s:13:"6224008826736";s:11:"category_id";s:0:"";s:5:"price";s:6:"233.45";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:6;a:11:{s:5:"title";s:53:"ST Dalfour Blackcurrant 100% Fruit Spread 10 oz 284 g";s:4:"slug";s:2:"44";s:3:"sku";s:13:"5014271003474";s:11:"category_id";s:0:"";s:5:"price";s:5:"91.35";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:7;a:11:{s:5:"title";s:57:"ST Dalfour Orange Marmalade 100% Fruit Spread 10 oz 284 g";s:4:"slug";s:2:"44";s:3:"sku";s:13:"5014271798219";s:11:"category_id";s:0:"";s:5:"price";s:5:"91.35";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:8;a:11:{s:5:"title";s:50:"Kiihne Made for Meat Burger Style Chipotle 235 ml ";s:4:"slug";s:3:"135";s:3:"sku";s:8:"40198668";s:11:"category_id";s:0:"";s:5:"price";s:6:"90.625";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:9;a:11:{s:5:"title";s:37:"BM Lamaison Belge Paita Sauce 500 ml ";s:4:"slug";s:3:"135";s:3:"sku";s:13:"5420058022581";s:11:"category_id";s:0:"";s:5:"price";s:2:"87";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:10;a:11:{s:5:"title";s:27:"Extra Triyaki Sauce 300 ml ";s:4:"slug";s:3:"135";s:3:"sku";s:12:"745178611244";s:11:"category_id";s:0:"";s:5:"price";s:5:"65.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:11;a:11:{s:5:"title";s:42:"Kikkoman Soy Sauce for all Purpose 250 ml ";s:4:"slug";s:3:"135";s:3:"sku";s:13:"8715035220300";s:11:"category_id";s:0:"";s:5:"price";s:2:"87";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:12;a:11:{s:5:"title";s:42:"Harpic Bathroom Cleaner 99.9 Killer 500 ml";s:4:"slug";s:3:"139";s:3:"sku";s:13:"6295120044704";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:13;a:11:{s:5:"title";s:40:"Renol Disinfectant Consentrated gel 7*1 ";s:4:"slug";s:3:"139";s:3:"sku";s:13:"6222021401558";s:11:"category_id";s:0:"";s:5:"price";s:4:"43.5";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:14;a:11:{s:5:"title";s:33:"Tuff Gard Fabric Protector 400 ml";s:4:"slug";s:3:"139";s:3:"sku";s:13:"6224000101251";s:11:"category_id";s:0:"";s:5:"price";s:4:"84.1";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:15;a:11:{s:5:"title";s:41:"Fisherman Sardine In Sunfloer Oil 125 gm ";s:4:"slug";s:3:"150";s:3:"sku";s:13:"6224000448264";s:11:"category_id";s:0:"";s:5:"price";s:5:"30.45";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:16;a:11:{s:5:"title";s:59:"Arlequin Pota Jumbo Squids Pieces in Galician Style 111 gm ";s:4:"slug";s:3:"150";s:3:"sku";s:13:"8421993908692";s:11:"category_id";s:0:"";s:5:"price";s:6:"64.525";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:17;a:11:{s:5:"title";s:57:"Arlequin Pota Jumbo Squids Pieces in Garlic Sauce 111 gm ";s:4:"slug";s:3:"150";s:3:"sku";s:13:"8421993908708";s:11:"category_id";s:0:"";s:5:"price";s:6:"64.525";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:18;a:11:{s:5:"title";s:33:"Arlequin in Pickled Sauce 111 gm ";s:4:"slug";s:3:"150";s:3:"sku";s:12:"842199397169";s:11:"category_id";s:0:"";s:5:"price";s:6:"64.525";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:19;a:11:{s:5:"title";s:43:"Crunchy Nutty Peanut Butter Crunchy 510 gm ";s:4:"slug";s:3:"165";s:3:"sku";s:13:"8908004415085";s:11:"category_id";s:0:"";s:5:"price";s:5:"50.75";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:20;a:11:{s:5:"title";s:42:"Crunchy Nutty Peanut Butter Cearmy 510 gm ";s:4:"slug";s:3:"165";s:3:"sku";s:13:"8908004415078";s:11:"category_id";s:0:"";s:5:"price";s:5:"50.75";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:21;a:11:{s:5:"title";s:38:"Barilla Pesto Basilico E Rucola 190ml ";s:4:"slug";s:3:"135";s:3:"sku";s:13:"8076809545396";s:11:"category_id";s:0:"";s:5:"price";s:5:"82.65";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:22;a:11:{s:5:"title";s:32:"Barilla Arrabbiata Sauce 380 ml ";s:4:"slug";s:3:"135";s:3:"sku";s:13:"8076809513388";s:11:"category_id";s:0:"";s:5:"price";s:4:"60.9";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:23;a:11:{s:5:"title";s:36:"Ovvio Italy Pistachio butter 200 gm ";s:4:"slug";s:3:"165";s:3:"sku";s:13:"8033971610161";s:11:"category_id";s:0:"";s:5:"price";s:4:"72.5";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:24;a:11:{s:5:"title";s:56:"Healthy Chocolate Spread with Hazelnut Sugar Free 375 gm";s:4:"slug";s:2:"44";s:3:"sku";s:13:"6224010439076";s:11:"category_id";s:0:"";s:5:"price";s:5:"94.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:25;a:11:{s:5:"title";s:35:"Reese's Creamy Peanut Butter 510 gm";s:4:"slug";s:3:"165";s:3:"sku";s:11:"34000400126";s:11:"category_id";s:0:"";s:5:"price";s:6:"123.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:26;a:11:{s:5:"title";s:32:"Freez Mix Lemon and Ment 275 ml ";s:4:"slug";s:3:"156";s:3:"sku";s:12:"762571500128";s:11:"category_id";s:0:"";s:5:"price";s:5:"39.15";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:27;a:11:{s:5:"title";s:38:"Freez Mix Pineapple and Coconut 275ml ";s:4:"slug";s:3:"156";s:3:"sku";s:12:"762571500081";s:11:"category_id";s:0:"";s:5:"price";s:5:"39.15";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:28;a:11:{s:5:"title";s:23:"Freez Mix Lychee 275ml ";s:4:"slug";s:3:"156";s:3:"sku";s:12:"762571500265";s:11:"category_id";s:0:"";s:5:"price";s:5:"39.15";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:29;a:11:{s:5:"title";s:30:"Freez Mix Mojito Fraise 275ml ";s:4:"slug";s:3:"156";s:3:"sku";s:12:"762571500296";s:11:"category_id";s:0:"";s:5:"price";s:5:"39.15";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:30;a:11:{s:5:"title";s:29:"Freez Mix  Strawberry  275ml ";s:4:"slug";s:3:"156";s:3:"sku";s:12:"762571500012";s:11:"category_id";s:0:"";s:5:"price";s:5:"39.15";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:31;a:11:{s:5:"title";s:31:"Freez Mix Kiwi and Lime  275ml ";s:4:"slug";s:3:"156";s:3:"sku";s:12:"762571500098";s:11:"category_id";s:0:"";s:5:"price";s:5:"39.15";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:32;a:11:{s:5:"title";s:33:"Freez Mix Mango and Peach  275ml ";s:4:"slug";s:3:"156";s:3:"sku";s:12:"762571500241";s:11:"category_id";s:0:"";s:5:"price";s:5:"39.15";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:33;a:11:{s:5:"title";s:44:"Freez Mix Blue Hawai Tropical Fruits  275ml ";s:4:"slug";s:3:"156";s:3:"sku";s:12:"762571500197";s:11:"category_id";s:0:"";s:5:"price";s:5:"39.15";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:34;a:11:{s:5:"title";s:32:"Freez Mix Apple and Grape 275ml ";s:4:"slug";s:3:"156";s:3:"sku";s:12:"762571500067";s:11:"category_id";s:0:"";s:5:"price";s:5:"39.15";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:35;a:11:{s:5:"title";s:57:"Coffee Joy Indulgent Irresistible Coffee Biscuit 18*45 gm";s:4:"slug";s:3:"154";s:3:"sku";s:13:"8996001301852";s:11:"category_id";s:0:"";s:5:"price";s:6:"143.55";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:36;a:11:{s:5:"title";s:47:"Demba Peanut Bar Milk Chocolate Coated 24*40 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"8691707131801";s:11:"category_id";s:0:"";s:5:"price";s:6:"166.75";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:37;a:11:{s:5:"title";s:48:"Demba Caramel Bar Milk Chocolate Coated 24*40 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"8691707131818";s:11:"category_id";s:0:"";s:5:"price";s:6:"166.75";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:38;a:11:{s:5:"title";s:20:"KitKat Mini Moments ";s:4:"slug";s:3:"144";s:3:"sku";s:13:"6294003561109";s:11:"category_id";s:0:"";s:5:"price";s:4:"84.1";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:39;a:11:{s:5:"title";s:34:"Milka MMMAX Peanut Caramel 276 gm ";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622210609830";s:11:"category_id";s:0:"";s:5:"price";s:5:"82.65";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:40;a:11:{s:5:"title";s:36:"Milka MMMAX Strawberry Fresa 300 gm ";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622200007769";s:11:"category_id";s:0:"";s:5:"price";s:5:"82.65";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:41;a:11:{s:5:"title";s:48:"Milka MMMAX Caramelo y Avellanas Enteras 300 gm ";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622300134532";s:11:"category_id";s:0:"";s:5:"price";s:5:"82.65";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:42;a:11:{s:5:"title";s:28:"Milka MMMAX Noisette 270 gm ";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622210690845";s:11:"category_id";s:0:"";s:5:"price";s:5:"82.65";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:43;a:11:{s:5:"title";s:37:"Milka MMMAX Choco and Biscuit 300 gm ";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622200009084";s:11:"category_id";s:0:"";s:5:"price";s:5:"82.65";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:44;a:11:{s:5:"title";s:22:"Milka Alpenmilk 270 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622210690883";s:11:"category_id";s:0:"";s:5:"price";s:5:"82.65";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:45;a:11:{s:5:"title";s:27:"Milka MMMAX Triolade 280 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622210690852";s:11:"category_id";s:0:"";s:5:"price";s:5:"82.65";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:46;a:11:{s:5:"title";s:32:"Milka Tender Cow 5 pieces 140 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622210590664";s:11:"category_id";s:0:"";s:5:"price";s:4:"60.9";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:47;a:11:{s:5:"title";s:22:"Milka Choco Moo 120 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622210405302";s:11:"category_id";s:0:"";s:5:"price";s:4:"46.4";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:48;a:11:{s:5:"title";s:24:"Milka Choco Cream 260 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622210717696";s:11:"category_id";s:0:"";s:5:"price";s:4:"43.5";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:49;a:11:{s:5:"title";s:31:"Milka Cookies Sensations 100 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622210689610";s:11:"category_id";s:0:"";s:5:"price";s:2:"58";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:50;a:11:{s:5:"title";s:26:"Milka Choc and Choc 100 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622210413147";s:11:"category_id";s:0:"";s:5:"price";s:5:"68.15";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:51;a:11:{s:5:"title";s:21:"Milka Choco Cow 40 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622210205728";s:11:"category_id";s:0:"";s:5:"price";s:6:"15.225";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:52;a:11:{s:5:"title";s:36:"Milka Choco Jaffa Orange Jelly 100gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622300603281";s:11:"category_id";s:0:"";s:5:"price";s:5:"42.05";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:53;a:11:{s:5:"title";s:42:"Milka Cookies Sensations OREO Crème 100 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622201152000";s:11:"category_id";s:0:"";s:5:"price";s:5:"62.35";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:54;a:11:{s:5:"title";s:26:"Milka Cookies Loop 132 gm ";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622201502515";s:11:"category_id";s:0:"";s:5:"price";s:5:"65.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:55;a:11:{s:5:"title";s:38:"Milka Choco Jaffa Rasperry Jelly 100gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622300434373";s:11:"category_id";s:0:"";s:5:"price";s:5:"42.05";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:56;a:11:{s:5:"title";s:33:"Milka Choco Cookies Raisins 135gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"5906747312169";s:11:"category_id";s:0:"";s:5:"price";s:4:"60.9";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:57;a:11:{s:5:"title";s:23:"Milka XL Cookies 184 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622210063113";s:11:"category_id";s:0:"";s:5:"price";s:2:"58";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:58;a:11:{s:5:"title";s:27:"Milka XL Cookies Nut 184 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622300813208";s:11:"category_id";s:0:"";s:5:"price";s:2:"58";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:59;a:11:{s:5:"title";s:36:"Milka Choco Brownie 100 gm 6 pieces ";s:4:"slug";s:3:"144";s:3:"sku";s:13:"7622210652775";s:11:"category_id";s:0:"";s:5:"price";s:4:"60.9";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:60;a:11:{s:5:"title";s:18:"Milka Choco Wafer ";s:4:"slug";s:3:"144";s:3:"sku";s:0:"";s:11:"category_id";s:0:"";s:5:"price";s:6:"13.775";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:61;a:11:{s:5:"title";s:54:"Ritter Sport Cocoa Selection - 81 percent Cocoa - 100g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417938008";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:62;a:11:{s:5:"title";s:53:"Ritter Sport Cocoa Selection - 74 percent Cocoa -100g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417933003";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:63;a:11:{s:5:"title";s:38:"Dunkle Voll-Nuss - Ritter Sport - 100g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417702005";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:64;a:11:{s:5:"title";s:40:"Ritter Sport White Whole Hazelnuts -100g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417013002";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:65;a:11:{s:5:"title";s:75:"Ritter Sport Whole Hazel Nuts With Crunchy Roasted Whole Hazel Nuts, 100 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417019004";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:66;a:11:{s:5:"title";s:29:"Ritter Sport Voll Nuss 100 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417700001";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:67;a:11:{s:5:"title";s:50:"Ritter Sport Weiss Plus Crisp Chocolate Bar 100 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417292001";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:68;a:11:{s:5:"title";s:44:"Ritter Sport Hazelnuts Chocolate Bar, 100 Gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417222008";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:69;a:11:{s:5:"title";s:48:"Ritter Sport Chocolate With Cranberry Nuss 100gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417264008";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:70;a:11:{s:5:"title";s:35:"Kakao-Mousse - Ritter Sport - 100 g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417294005";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:71;a:11:{s:5:"title";s:29:"Ritter SPORT COCOA WAFER 100g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417220004";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:72;a:11:{s:5:"title";s:39:"Ritter Sport Alpine Milk Chocolate 100g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417018007";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:73;a:11:{s:5:"title";s:40:"Ritter Sport, Chocolate Peppermint, 100g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417028006";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:74;a:11:{s:5:"title";s:96:"Ritter Sport Ritter Sport Marzipan Chocolate - Covered in a crunchy dark chocolate shell -100 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417025005";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:75;a:11:{s:5:"title";s:29:"Ritter Sport Coconut Bar 100g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417298003";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:76;a:11:{s:5:"title";s:36:"Ritter Sport Raisin Noisettes 100 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417022004";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:77;a:11:{s:5:"title";s:49:"Ritter Sport Caramel Mousse Chocolate Bar, 100 Gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417211002";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:78;a:11:{s:5:"title";s:37:"Edel-Vollmilch - Ritter Sport - 100 g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417021007";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:79;a:11:{s:5:"title";s:40:"Ritter Sport - Strawberry Yogurt - 100gr";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417237002";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:80;a:11:{s:5:"title";s:30:"Ritter Sport Cornflakes - 100g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417011008";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:81;a:11:{s:5:"title";s:36:"Ritter Sport Mandel Chocolate 100 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417703002";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:82;a:11:{s:5:"title";s:74:"Ritter Sport Milk Chocolate With Roasted And Salted Almonds And Honey 100g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417704009";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:83;a:11:{s:5:"title";s:27:"Ritter Sport Cashew - 100 g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417707000";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:84;a:11:{s:5:"title";s:47:"Ritter Sport 55% Dark Milk Chocolate Ghana 100g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417931009";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:85;a:11:{s:5:"title";s:49:"Ritter Sport Dark Chocolate 50 Percent Cocoa 100g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417020000";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:86;a:11:{s:5:"title";s:54:"Ritter Sport Dark Almond and Orange Chocolate - 100 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"4000417212009";s:11:"category_id";s:0:"";s:5:"price";s:5:"36.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:87;a:11:{s:5:"title";s:58:"Full of Love Valentine’s Assorted Gourmet Chocolate 400 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"8697401468892";s:11:"category_id";s:0:"";s:5:"price";s:6:"413.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:88;a:11:{s:5:"title";s:48:"Melodi Chocolate Metal Box Chocolate Dragee 300g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"8698563035861";s:11:"category_id";s:0:"";s:5:"price";s:5:"246.5";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:89;a:11:{s:5:"title";s:58:"Melodi Chocolate Special Small Size Madlen Chocolate 300 g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"8697401463545";s:11:"category_id";s:0:"";s:5:"price";s:6:"369.75";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:90;a:11:{s:5:"title";s:32:"Melodi Chocolate Assorted 190 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"8698563034758";s:11:"category_id";s:0:"";s:5:"price";s:6:"253.75";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:91;a:11:{s:5:"title";s:59:"Melodi Chocolate Assorted Belgian Chocolate Gift Box 355 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"8697401461817";s:11:"category_id";s:0:"";s:5:"price";s:6:"369.75";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:92;a:11:{s:5:"title";s:31:"Fox's Chocolatey Selection 365g";s:4:"slug";s:3:"144";s:3:"sku";s:13:"5010035065856";s:11:"category_id";s:0:"";s:5:"price";s:6:"195.75";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:93;a:11:{s:5:"title";s:50:"Melodi Gilded Umbrella Chocolate 22 gm *30 pieces ";s:4:"slug";s:3:"144";s:3:"sku";s:13:"8697401466737";s:11:"category_id";s:0:"";s:5:"price";s:6:"529.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:94;a:11:{s:5:"title";s:38:"Melodi Gilded Umbrella Chocolate 22 gm";s:4:"slug";s:3:"144";s:3:"sku";s:15:"8697401466737-1";s:11:"category_id";s:0:"";s:5:"price";s:6:"18.125";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:95;a:11:{s:5:"title";s:31:"Melodi Chocolate Cranberry 25gm";s:4:"slug";s:3:"144";s:3:"sku";s:15:"8698563041855-1";s:11:"category_id";s:0:"";s:5:"price";s:4:"14.5";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:96;a:11:{s:5:"title";s:41:"Melodi Chocolate Cranberry 25gm*30 pieces";s:4:"slug";s:3:"144";s:3:"sku";s:13:"8698563041855";s:11:"category_id";s:0:"";s:5:"price";s:3:"435";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:97;a:11:{s:5:"title";s:58:"Melodi Milk Chocolate 10% Pistachio Tablet 22 gm*25 pieces";s:4:"slug";s:3:"144";s:3:"sku";s:13:"8697401460940";s:11:"category_id";s:0:"";s:5:"price";s:6:"340.75";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:98;a:11:{s:5:"title";s:48:"Melodi Milk Chocolate 10% Pistachio Tablet 22 gm";s:4:"slug";s:3:"144";s:3:"sku";s:15:"8697401460940-1";s:11:"category_id";s:0:"";s:5:"price";s:4:"14.5";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:99;a:11:{s:5:"title";s:44:"Melodi Dark Chocolate Tablet 22 gm*25 pieces";s:4:"slug";s:3:"144";s:3:"sku";s:13:"8697401461282";s:11:"category_id";s:0:"";s:5:"price";s:6:"340.75";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:100;a:11:{s:5:"title";s:40:"Melodi Dark Chocolate Tablet 22 gm 22 gm";s:4:"slug";s:3:"144";s:3:"sku";s:15:"8697401461282-1";s:11:"category_id";s:0:"";s:5:"price";s:4:"14.5";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:101;a:11:{s:5:"title";s:57:"Melodi Milk Chocolate 14% Hazelnut Tablet 22 gm*25 pieces";s:4:"slug";s:3:"144";s:3:"sku";s:13:"8697401460957";s:11:"category_id";s:0:"";s:5:"price";s:6:"340.75";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:102;a:11:{s:5:"title";s:48:"Melodi Milk Chocolate 14% Hazelnut  Tablet 22 gm";s:4:"slug";s:3:"144";s:3:"sku";s:15:"8697401460957-1";s:11:"category_id";s:0:"";s:5:"price";s:4:"14.5";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}i:103;a:11:{s:5:"title";s:46:"Melodi Bitter Chocolate Hazelnut Dragee 150 gm";s:4:"slug";s:3:"144";s:3:"sku";s:13:"8698563051304";s:11:"category_id";s:0:"";s:5:"price";s:5:"94.25";s:13:"discount_rate";s:1:"0";s:8:"vat_rate";s:1:"0";s:5:"stock";s:2:"10";s:11:"description";s:345:"About This Item:
+
+Description:
+
+Ingredients:
+
+Legal Disclaimer
+
+Actual product packaging and materials may contain more and different information than what is shown on our website. We recommend that you do not rely solely on the information presented and that you always read labels, warnings, and directions before using or consuming a product.";s:9:"image_url";s:0:"";s:13:"external_link";s:0:"";}}
